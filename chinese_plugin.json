@@ -9,7 +9,7 @@
         "author": "Explordiaz",
         "path": "https://raw.githubusercontent.com/explord-vbook/vbook-extensions/my-ext/yushugu/plugin.json",
         "version": 7,
-        "source": "https://www.yushugu.cc",
+        "source": "https://www.yushugu.net",
         "icon": "https://raw.githubusercontent.com/explord-vbook/vbook-extensions/my-ext/yushugu/icon.png",
         "description": "Đọc truyện trên trang yushugu.net",
         "type": "chinese_novel",
